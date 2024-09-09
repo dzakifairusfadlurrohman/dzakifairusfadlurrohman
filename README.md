@@ -1,0 +1,10 @@
+-  👋 Hello! I'm @dzakifairusfadlurrohman
+-  👀 I'm interested in: Programming, building innovative software, and exploring new technologies.
+-  🌱 I'm currently learning: Advanced coding techniques, enhancing my skills in full-stack development, and mastering new programming languages.
+-  💼 I'm looking to collaborate on: Exciting projects with the best software teams, where innovation meets excellence, especially in fields like AI, web development, and mobile apps.
+-  📱 How to reach me: The best way to contact me is through Instagram @faturdzaki
+-  😄 Pronouns: Dzaki (he/him)
+-  ⚡ Fun fact: I love solving complex coding challenges—it's like cracking puzzles that open up new possibilities! Besides coding, I enjoy gaming and exploring new tech gadgets.
+-  🚀 What I'm working on: Currently, I'm diving into open-source contributions and developing my own projects, aiming to make a positive impact in the tech community.
+-  🎯 Goals for 2024: Improve my algorithmic problem-solving skills, contribute to at least three major open-source projects, and build a personal website to showcase my portfolio.
+-  💬 Let's chat about: Tech trends, coding tips, best practices in software development, and opportunities for collaboration.

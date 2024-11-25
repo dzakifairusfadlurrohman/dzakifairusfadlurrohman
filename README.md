@@ -6,5 +6,5 @@
 -  😄 Pronouns: Dzaki (he/him)
 -  ⚡ Fun fact: I love solving complex coding challenges—it's like cracking puzzles that open up new possibilities! Besides coding, I enjoy gaming and exploring new tech gadgets.
 -  🚀 What I'm working on: Currently, I'm diving into open-source contributions and developing my own projects, aiming to make a positive impact in the tech community.
--  🎯 Goals for 2024: Improve my algorithmic problem-solving skills, contribute to at least three major open-source projects, and build a personal website to showcase my portfolio.
+-  🎯 Goals for 2025: Improve my algorithmic problem-solving skills, contribute to at least three major open-source projects, and build a personal website to showcase my portfolio.
 -  💬 Let's chat about: Tech trends, coding tips, best practices in software development, and opportunities for collaboration.

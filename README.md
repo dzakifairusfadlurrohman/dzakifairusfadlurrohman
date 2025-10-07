@@ -2,6 +2,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/dzakifairusfadlurrohman">Dzaki Fairus Fadlurrohman</a> 👋</h1>
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGc0MzRrZnJyeWRsc3hlczgxYm53aHB3YzJhZndhYTFsM3FvNjN0diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="100" alt="Futuristic Code Animation"/>
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="80" />
 </p>
 
 

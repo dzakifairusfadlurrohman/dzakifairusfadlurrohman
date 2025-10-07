@@ -1,9 +1,7 @@
 <!-- 👋 Hi there! Welcome to my profile -->
 <h1 align="center">Hi there, I'm <a href="https://github.com/dzakifairusfadlurrohman">Dzaki Fairus Fadlurrohman</a> 👋</h1>
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*zB9xFjJwU6V2zjzvS6x5XQ.gif" width="90" alt="Laravel animation"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="90" alt="Vue animation"/>
+  <img src="https://i.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="90" alt="Terminal Animation"/>
 </p>
 
 

@@ -35,9 +35,10 @@
 ---
 
 ## 📈 Progress & Growth (honest + motivating)
+<p align="center">
   <img src="https://img.shields.io/badge/Status-Professional%20Mode-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Professional Mode"/>
   <img src="https://img.shields.io/badge/Total%20Contributions-112-informational?style=for-the-badge" alt="contrib"/>
-  <img src="https://img.shields.io/badge/Current%20Streak-1-yellow?style=for-the-badge" alt="streak"/>
+  <img src="https://img.shields.io/badge/Current%20Streak-17-green?style=for-the-badge" alt="streak"/>
 </p>
 
 > I'm focusing on consistent progress. Numbers are real — my goal is continuous improvement.

@@ -1,11 +1,10 @@
 <!-- 👋 Hi there! Welcome to my profile -->
 <h1 align="center">Hi there, I'm <a href="https://github.com/dzakifairusfadlurrohman">Dzaki Fairus Fadlurrohman</a> 👋</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80" alt="Laravel animation"/>
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/images/laravel.gif" width="90" alt="Laravel animation"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="80" alt="Vue animation"/>
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/images/vue.gif" width="90" alt="Vue animation"/>
 </p>
-
 
 <p align="center">
   <b>💻 Building innovative software & exploring new technologies</b>

@@ -35,8 +35,7 @@
 ---
 
 ## 📈 Progress & Growth (honest + motivating)
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning%20Mode-blue?style=for-the-badge" alt="learning"/>
+  <img src="https://img.shields.io/badge/Status-Professional%20Mode-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Professional Mode"/>
   <img src="https://img.shields.io/badge/Total%20Contributions-112-informational?style=for-the-badge" alt="contrib"/>
   <img src="https://img.shields.io/badge/Current%20Streak-1-yellow?style=for-the-badge" alt="streak"/>
 </p>

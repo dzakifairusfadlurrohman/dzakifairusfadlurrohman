@@ -29,30 +29,30 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,java,tailwind,mysql,git,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,php,laravel,ts,react,nextjs,nodejs,express,python,java,tailwind,mysql,git,vscode&perline=6" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
+## 📈 Progress & Growth (honest + motivating)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dzakifairusfadlurrohman&show_icons=true&theme=matrix" alt="Dzaki's GitHub stats" />
+  <img src="https://img.shields.io/badge/Status-Learning%20Mode-blue?style=for-the-badge" alt="learning"/>
+  <img src="https://img.shields.io/badge/Total%20Contributions-112-informational?style=for-the-badge" alt="contrib"/>
+  <img src="https://img.shields.io/badge/Current%20Streak-1-yellow?style=for-the-badge" alt="streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dzakifairusfadlurrohman&theme=matrix" alt="GitHub Streak" />
-</p>
+> I'm focusing on consistent progress. Numbers are real — my goal is continuous improvement.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzakifairusfadlurrohman&layout=compact&theme=matrix" alt="Top Languages" />
-</p>
+**Goals**
+- 🧭 Contributions: `287 → 300`  
+- ⚙️ Commits (year): `193 → 200`  
+- 🔁 Consistent streak: `28 → 30 days`
 
 ---
 
 ### 🧩 Interests
 
-`Programming` • `Web Development` • `Open Source` • `Gaming` • `Tech Gadgets`
+`Programming` • `Web Development` • `Open Source` • `App Development` • `Tech Gadgets`
 
 ---
 

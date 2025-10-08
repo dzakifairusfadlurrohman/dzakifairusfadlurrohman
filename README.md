@@ -67,15 +67,11 @@
 
 ---
 
-### 💻 Matrix Mode
-
 <p align="center">
   <img src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" width="600" alt="Matrix Code Animation"/>
 </p>
 
 ---
-
-### 🌀 Fun Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />

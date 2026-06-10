@@ -26,11 +26,14 @@
   - Build and launch my personal portfolio website  
 
 ---
-
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,laravel,ts,react,nextjs,nodejs,express,python,java,tailwind,mysql,git,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,php,laravel,ts,react,nextjs,nodejs,express,python,java,tailwind,mysql,postgres,docker,postman,git,vscode&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=claude,cursor,swagger&perline=3" />
 </p>
 
 ---

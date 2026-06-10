@@ -29,7 +29,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,laravel,ts,react,nextjs,nodejs,express,python,java,tailwind,mysql,postgres,docker,postman,git,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,php,laravel,ts,react,nextjs,nodejs,express,python,java,tailwind,mysql,postgres,docker,postman,git,vscode,vercel&perline=6" />
 </p>
 
 <p align="center">
